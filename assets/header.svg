@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Eren İlgün</title>
+  <desc id="description">Lacivert zemin üzerinde Eren İlgün adı, yazılım odağı ve katkı grafiğine uzanan turkuaz bir yol.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1a2a"/>
+      <stop offset="0.54" stop-color="#142c40"/>
+      <stop offset="1" stop-color="#19465a"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2db8b6" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#38c8bc"/>
+      <stop offset="1" stop-color="#a5f0d5"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#9dd7d9" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded">
+      <rect width="1200" height="300" rx="25"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <path d="M 0 245 C 170 170, 195 335, 384 254 S 605 190, 724 268" fill="none" stroke="#247987" stroke-opacity="0.22" stroke-width="56"/>
+    <path d="M 675 265 C 755 265, 745 207, 824 207 H 929 C 982 207, 987 151, 929 151 H 856 C 803 151, 811 92, 873 92 H 1134" fill="none" stroke="url(#trail)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#4e8593" opacity="0.38">
+      <rect x="793" y="34" width="15" height="15" rx="4"/>
+      <rect x="824" y="34" width="15" height="15" rx="4"/>
+      <rect x="855" y="34" width="15" height="15" rx="4"/>
+      <rect x="886" y="34" width="15" height="15" rx="4"/>
+      <rect x="917" y="34" width="15" height="15" rx="4"/>
+      <rect x="793" y="64" width="15" height="15" rx="4"/>
+      <rect x="824" y="64" width="15" height="15" rx="4"/>
+      <rect x="855" y="64" width="15" height="15" rx="4"/>
+      <rect x="886" y="64" width="15" height="15" rx="4"/>
+      <rect x="917" y="64" width="15" height="15" rx="4"/>
+    </g>
+    <circle cx="1134" cy="92" r="18" fill="#a5f0d5"/>
+    <circle cx="1134" cy="92" r="7" fill="#173b4b"/>
+    <circle cx="112" cy="56" r="5" fill="#eeb966"/>
+    <text x="130" y="61" fill="#b7d9df" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="3">DEVELOPER / BUILDER</text>
+    <text x="102" y="151" fill="#f4f9fa" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="1">EREN İLGÜN</text>
+    <rect x="104" y="174" width="57" height="4" rx="2" fill="#3ccdbd"/>
+    <text x="103" y="225" fill="#c3dce2" font-family="Segoe UI, Arial, sans-serif" font-size="22">C#  /  .NET  /  USEFUL SOFTWARE</text>
+    <text x="105" y="267" fill="#78adb8" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1.6">MAKE IT WORK  ·  MAKE IT CLEAR  ·  MAKE IT LAST</text>
+  </g>
+</svg>

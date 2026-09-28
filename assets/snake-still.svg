@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="124" viewBox="0 0 900 124" role="img" aria-labelledby="title description">
+  <title id="title">Katkı grafiğinde yılan</title>
+  <desc id="description">Hareket azaltma tercihi için durağan yılan çizimi.</desc>
+  <rect width="900" height="124" rx="16" fill="#142c40"/>
+  <g fill="#285469">
+    <rect x="34" y="25" width="15" height="15" rx="3"/><rect x="57" y="25" width="15" height="15" rx="3"/><rect x="80" y="25" width="15" height="15" rx="3"/><rect x="103" y="25" width="15" height="15" rx="3"/><rect x="126" y="25" width="15" height="15" rx="3"/><rect x="149" y="25" width="15" height="15" rx="3"/><rect x="172" y="25" width="15" height="15" rx="3"/><rect x="195" y="25" width="15" height="15" rx="3"/>
+    <rect x="34" y="48" width="15" height="15" rx="3"/><rect x="57" y="48" width="15" height="15" rx="3"/><rect x="80" y="48" width="15" height="15" rx="3"/><rect x="103" y="48" width="15" height="15" rx="3"/><rect x="126" y="48" width="15" height="15" rx="3"/><rect x="149" y="48" width="15" height="15" rx="3"/><rect x="172" y="48" width="15" height="15" rx="3"/><rect x="195" y="48" width="15" height="15" rx="3"/>
+    <rect x="34" y="71" width="15" height="15" rx="3"/><rect x="57" y="71" width="15" height="15" rx="3"/><rect x="80" y="71" width="15" height="15" rx="3"/><rect x="103" y="71" width="15" height="15" rx="3"/><rect x="126" y="71" width="15" height="15" rx="3"/><rect x="149" y="71" width="15" height="15" rx="3"/><rect x="172" y="71" width="15" height="15" rx="3"/><rect x="195" y="71" width="15" height="15" rx="3"/>
+  </g>
+  <path d="M 255 78 H 466 Q 495 78 495 61 T 531 44 H 682 Q 713 44 713 61 T 747 78 H 821" fill="none" stroke="#4acbbd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="821" cy="78" r="17" fill="#a5f0d5"/><circle cx="815" cy="74" r="2.5" fill="#173b4b"/><circle cx="827" cy="74" r="2.5" fill="#173b4b"/>
+</svg>
