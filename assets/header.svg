@@ -1,48 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
-  <title id="title">Eren İlgün</title>
-  <desc id="description">Lacivert zemin üzerinde Eren İlgün adı, yazılım odağı ve katkı grafiğine uzanan turkuaz bir yol.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
+  <title id="title">Eren İlgün — software builder</title>
+  <desc id="description">C# ve .NET odaklı geliştirici profili için lacivert, mavi ve turkuaz renklerde özel kapak görseli.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0c1a2a"/>
-      <stop offset="0.54" stop-color="#142c40"/>
-      <stop offset="1" stop-color="#19465a"/>
+      <stop offset="0" stop-color="#0b1d33"/>
+      <stop offset="0.58" stop-color="#12324d"/>
+      <stop offset="1" stop-color="#1b5265"/>
     </linearGradient>
-    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2db8b6" stop-opacity="0"/>
-      <stop offset="0.42" stop-color="#38c8bc"/>
-      <stop offset="1" stop-color="#a5f0d5"/>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4c87ef"/>
+      <stop offset="0.52" stop-color="#42d5c4"/>
+      <stop offset="1" stop-color="#a7f3d6"/>
     </linearGradient>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#9dd7d9" stroke-opacity="0.055" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 H 0 V 28" fill="none" stroke="#abdce6" stroke-opacity="0.055" stroke-width="1"/>
     </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
     <clipPath id="rounded">
-      <rect width="1200" height="300" rx="25"/>
+      <rect width="1200" height="380" rx="28"/>
     </clipPath>
   </defs>
+
   <g clip-path="url(#rounded)">
-    <rect width="1200" height="300" fill="url(#background)"/>
-    <rect width="1200" height="300" fill="url(#grid)"/>
-    <path d="M 0 245 C 170 170, 195 335, 384 254 S 605 190, 724 268" fill="none" stroke="#247987" stroke-opacity="0.22" stroke-width="56"/>
-    <path d="M 675 265 C 755 265, 745 207, 824 207 H 929 C 982 207, 987 151, 929 151 H 856 C 803 151, 811 92, 873 92 H 1134" fill="none" stroke="url(#trail)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-    <g fill="#4e8593" opacity="0.38">
-      <rect x="793" y="34" width="15" height="15" rx="4"/>
-      <rect x="824" y="34" width="15" height="15" rx="4"/>
-      <rect x="855" y="34" width="15" height="15" rx="4"/>
-      <rect x="886" y="34" width="15" height="15" rx="4"/>
-      <rect x="917" y="34" width="15" height="15" rx="4"/>
-      <rect x="793" y="64" width="15" height="15" rx="4"/>
-      <rect x="824" y="64" width="15" height="15" rx="4"/>
-      <rect x="855" y="64" width="15" height="15" rx="4"/>
-      <rect x="886" y="64" width="15" height="15" rx="4"/>
-      <rect x="917" y="64" width="15" height="15" rx="4"/>
+    <rect width="1200" height="380" fill="url(#background)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <circle cx="1006" cy="75" r="130" fill="#368bbb" opacity="0.09"/>
+    <circle cx="1076" cy="309" r="168" fill="#42d5c4" opacity="0.07"/>
+    <path d="M 0 365 C 260 256, 470 450, 722 345 S 1020 277, 1200 339" fill="none" stroke="#5a9bd8" stroke-opacity="0.13" stroke-width="68"/>
+
+    <rect x="72" y="47" width="9" height="9" rx="2" fill="#f3c170"/>
+    <text x="95" y="57" fill="#b9d6e1" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2.6">BUILDING USEFUL SOFTWARE</text>
+
+    <text x="68" y="155" fill="#f4fbff" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="1">EREN</text>
+    <text x="68" y="237" fill="#f4fbff" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="1">İLGÜN</text>
+    <rect x="73" y="258" width="59" height="5" rx="2.5" fill="#42d5c4"/>
+    <text x="72" y="302" fill="#d4e9ef" font-family="Segoe UI, Arial, sans-serif" font-size="22">C#  ·  .NET  ·  thoughtful tools</text>
+    <text x="73" y="346" fill="#8fb9c9" font-family="Consolas, Menlo, monospace" font-size="14" letter-spacing="1.8">SYSTEMS  /  DESKTOP  /  EXPERIENCE</text>
+
+    <g transform="translate(681 47)">
+      <rect x="0" y="0" width="453" height="282" rx="23" fill="#081c30" stroke="#47788d" stroke-opacity="0.52" stroke-width="2"/>
+      <rect x="1" y="1" width="451" height="47" rx="22" fill="#1d3b56"/>
+      <path d="M 2 48 H 451" stroke="#426b80" stroke-opacity="0.6"/>
+      <circle cx="25" cy="24" r="5" fill="#f3c170"/><circle cx="44" cy="24" r="5" fill="#69d6c7"/><circle cx="63" cy="24" r="5" fill="#5f9edb"/>
+      <text x="319" y="29" fill="#8eb8c8" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1.1">FLOW / 001</text>
+
+      <text x="27" y="91" fill="#71a6bb" font-family="Consolas, Menlo, monospace" font-size="14">01</text>
+      <text x="66" y="91" fill="#e7f5f7" font-family="Consolas, Menlo, monospace" font-size="17">understand the flow</text>
+      <circle cx="390" cy="84" r="8" fill="#4b8fea"/>
+
+      <text x="27" y="137" fill="#71a6bb" font-family="Consolas, Menlo, monospace" font-size="14">02</text>
+      <text x="66" y="137" fill="#e7f5f7" font-family="Consolas, Menlo, monospace" font-size="17">build the system</text>
+      <circle cx="390" cy="130" r="8" fill="#42d5c4"/>
+
+      <text x="27" y="183" fill="#71a6bb" font-family="Consolas, Menlo, monospace" font-size="14">03</text>
+      <text x="66" y="183" fill="#e7f5f7" font-family="Consolas, Menlo, monospace" font-size="17">verify the result</text>
+      <circle cx="390" cy="176" r="8" fill="#f3c170"/>
+
+      <path d="M 390 84 C 425 95, 356 112, 390 130 C 425 149, 356 159, 390 176" fill="none" stroke="url(#signal)" stroke-width="4" stroke-linecap="round"/>
+      <path d="M 27 219 H 422" stroke="#6b9db0" stroke-opacity="0.3"/>
+      <rect x="27" y="239" width="244" height="8" rx="4" fill="#3d6277"/>
+      <rect x="27" y="239" width="167" height="8" rx="4" fill="url(#signal)"/>
+      <text x="343" y="248" fill="#bce6dd" font-family="Consolas, Menlo, monospace" font-size="12">SHIP READY</text>
     </g>
-    <circle cx="1134" cy="92" r="18" fill="#a5f0d5"/>
-    <circle cx="1134" cy="92" r="7" fill="#173b4b"/>
-    <circle cx="112" cy="56" r="5" fill="#eeb966"/>
-    <text x="130" y="61" fill="#b7d9df" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="3">DEVELOPER / BUILDER</text>
-    <text x="102" y="151" fill="#f4f9fa" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="1">EREN İLGÜN</text>
-    <rect x="104" y="174" width="57" height="4" rx="2" fill="#3ccdbd"/>
-    <text x="103" y="225" fill="#c3dce2" font-family="Segoe UI, Arial, sans-serif" font-size="22">C#  /  .NET  /  USEFUL SOFTWARE</text>
-    <text x="105" y="267" fill="#78adb8" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1.6">MAKE IT WORK  ·  MAKE IT CLEAR  ·  MAKE IT LAST</text>
+
+    <circle cx="1103" cy="328" r="22" fill="#42d5c4" opacity="0.48" filter="url(#glow)"/>
+    <circle cx="1103" cy="328" r="5" fill="#a7f3d6"/>
   </g>
 </svg>

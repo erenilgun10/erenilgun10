@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-labelledby="title description">
+  <title id="title">Çalışma döngüsü</title>
+  <desc id="description">Önce akışı anla, sonra çözümü kur, en sonunda sonucu doğrula.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2a42"/><stop offset="1" stop-color="#174a61"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5b98e8"/><stop offset="0.52" stop-color="#42d5c4"/><stop offset="1" stop-color="#f3c170"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1098" height="178" rx="21" fill="url(#surface)" stroke="#477388" stroke-opacity="0.6" stroke-width="2"/>
+  <text x="31" y="35" fill="#9bc1cf" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="2.2">ENGINEERING LOOP</text>
+  <path d="M 126 81 H 971" stroke="#49778b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 126 81 H 971" stroke="url(#route)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="126" cy="81" r="22" fill="#5b98e8"/><circle cx="550" cy="81" r="22" fill="#42d5c4"/><circle cx="971" cy="81" r="22" fill="#f3c170"/>
+  <text x="126" y="87" text-anchor="middle" fill="#0b1d33" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700">01</text>
+  <text x="550" y="87" text-anchor="middle" fill="#0b1d33" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700">02</text>
+  <text x="971" y="87" text-anchor="middle" fill="#0b1d33" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700">03</text>
+  <text x="126" y="143" text-anchor="middle" fill="#eef9fb" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">ANLA</text>
+  <text x="550" y="143" text-anchor="middle" fill="#eef9fb" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">KUR</text>
+  <text x="971" y="143" text-anchor="middle" fill="#eef9fb" font-family="Bahnschrift, Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">DOĞRULA</text>
+</svg>
