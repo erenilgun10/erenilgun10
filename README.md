@@ -31,6 +31,15 @@ Bir özelliğin yalnızca **çalışmasına** değil, nasıl anlaşıldığına,
 
 ### Araç çantam
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-12324d?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-12324d?style=for-the-badge" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-12324d?style=for-the-badge" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/WinForms-12324d?style=for-the-badge" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/MongoDB-1b5265?style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-1b5265?style=for-the-badge" alt="Entity Framework" />
+</p>
+
 | Alan | Teknolojiler ve pratikler |
 | :--- | :--- |
 | Uygulama | `C#` · `.NET` · `ASP.NET Core` · `WinForms` |
@@ -68,6 +77,34 @@ Bir özelliğin yalnızca **çalışmasına** değil, nasıl anlaşıldığına,
 </table>
 
 <p align="center"><a href="https://github.com/erenilgun10?tab=repositories"><strong>Diğer açık depolara göz at →</strong></a></p>
+
+## GitHub'da neler oluyor?
+
+<p align="center">
+  <a href="https://github.com/erenilgun10?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erenilgun10&amp;show_icons=true&amp;hide_rank=true&amp;card_width=400&amp;locale=tr&amp;custom_title=GitHub%20istatistiklerim&amp;bg_color=0b1d33&amp;title_color=42d5c4&amp;text_color=b9d6e1&amp;icon_color=f3c170&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=erenilgun10&amp;show_icons=true&amp;hide_rank=true&amp;card_width=400&amp;locale=tr&amp;custom_title=GitHub%20istatistiklerim&amp;bg_color=f0f6fb&amp;title_color=16758a&amp;text_color=1f3d53&amp;icon_color=207e8b&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true" alt="Eren'in yıldız, commit, pull request, issue ve katkıda bulunduğu depo istatistikleri" width="400" align="top" />
+    </picture>
+  </a>
+  <a href="https://github.com/erenilgun10?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erenilgun10&amp;layout=compact&amp;card_width=400&amp;langs_count=6&amp;locale=tr&amp;custom_title=Kodumun%20dilleri&amp;bg_color=0b1d33&amp;title_color=42d5c4&amp;text_color=b9d6e1&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenilgun10&amp;layout=compact&amp;card_width=400&amp;langs_count=6&amp;locale=tr&amp;custom_title=Kodumun%20dilleri&amp;bg_color=f0f6fb&amp;title_color=16758a&amp;text_color=1f3d53&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true" alt="Açık depolarımdaki kod miktarına göre programlama dillerinin dağılımı" width="400" align="top" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/erenilgun10?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=erenilgun10&amp;locale=tr&amp;hide_border=true&amp;border_radius=16&amp;background=0b1d33&amp;ring=42d5c4&amp;fire=f3c170&amp;currStreakNum=f4fbff&amp;sideNums=f4fbff&amp;currStreakLabel=42d5c4&amp;sideLabels=b9d6e1&amp;dates=8fb9c9&amp;stroke=1b5265" />
+      <img src="https://streak-stats.demolab.com/?user=erenilgun10&amp;locale=tr&amp;hide_border=true&amp;border_radius=16&amp;background=f0f6fb&amp;ring=16758a&amp;fire=b5741a&amp;currStreakNum=1f3d53&amp;sideNums=1f3d53&amp;currStreakLabel=16758a&amp;sideLabels=1f3d53&amp;dates=526d82&amp;stroke=c8dce8" alt="Eren'in toplam GitHub katkıları, güncel katkı serisi ve en uzun katkı serisi" width="700" align="top" />
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Dil dağılımı, açık depolarımdaki kod miktarına dayanır.</sub></p>
 
 ## Kodun izi 🐍
 
